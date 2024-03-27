@@ -1,0 +1,120 @@
+.dinning_section{
+    background-image: linear-gradient(rgb(0,0,0,0.6), rgb(0,0,0,0.7)),url(stats-be.jpg);
+    color: #fff;
+}
+header{
+    padding-bottom: 40px;
+}
+header img {
+    margin-top: 125px;
+}
+header h2 {
+    padding-top: 170px;
+}
+.card .yummy {
+    font-size: 16px;
+}
+#events .events_parag{
+    font-size: 22px;
+}
+#chefs .chefs_parag{
+    font-size: 26px;
+}
+.testimonial_section p{
+    font-size: 16px;
+}
+@media(max-width: 768px) {
+    /* header */
+    header img {
+        display: none;
+    }
+    header{
+        padding-bottom: -150px;
+    }
+    header .header_btn{
+        margin-left: 50px;
+    }
+    header h2{
+        font-size: 24px;
+        padding-top: 165px;
+        line-height: 40px;
+    }
+    .abt_img{
+        display: none;
+    }
+    /* why choose yummy */
+    .card .choose_yummy {
+        font-size: 14px;
+    }
+    .card .yummy {
+        font-size: 12px;
+    }
+    .card .yummys {
+        font-size: 12px;
+    }
+    .card .yummys_text {
+        font-size: 14px;
+    }
+    .dinning_section h3{
+        font-size: 14px;
+    }
+    /* menu page */
+    #menu .menu_parag{
+        font-size: 16px;
+    }
+    #menu h6{
+        font-size: 12px;
+    }
+    #menu .starters{
+        font-size: 14px;
+    }
+    /* events */
+    #events .events_parag{
+        font-size: 13px;
+    }
+    /* chefs */
+    #chefs .chefs_parag{
+        font-size: 13px;
+    }
+    #chefs h5 {
+        font-size: 14px;
+    }
+    /* book your stay */
+    #book h3 {
+        font-size: 13px;
+    }
+    /* contact us */
+    #contact h3{
+        font-size: 14px;
+    }
+    #contact h6{
+        font-size: 12px;
+    }
+    #contact p{
+        font-size: 12px;
+    }
+    #contact h5{
+        font-size: 14px;
+    }
+    /* testimonial */
+    .testimonial_section h4{
+        font-size: 14px;
+        margin-bottom: 20px;
+    }
+    .testimonial_section p{
+        font-size: 12px;
+    }
+    .testimonial_section img{
+        display: none;
+    }
+    .form_div img{
+        display: none;
+    }
+    /* footer */
+    #footer .footers{
+        font-size: 12px;
+    }
+    #footer h6{
+        font-size: 13px;
+    }
+}
