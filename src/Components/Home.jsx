@@ -252,7 +252,7 @@ const Home = () => {
                   border: "none",
                 }}
               >
-                <h3 className="choose_yummy py-4 mx-3">
+                <h3 className="choose_yummy pb-4 pt-5 mx-3">
                   <b>Why Choose Yummy?</b>
                 </h3>
                 <p className="yummy mx-3">
@@ -816,7 +816,7 @@ const Home = () => {
                     <Button
                       className="form-control"
                       style={{
-                        fontSize: "14px",
+                        fontSize: "15px",
                         borderRadius: "0px",
 
                         backgroundColor: "rgb(201, 2, 2)",
@@ -993,7 +993,7 @@ const Home = () => {
             <Button
               className=" mx-5"
               style={{
-                fontSize: "12px",
+                fontSize: "14px",
                 borderRadius: "30px",
                 padding: "6px 20px",
                 backgroundColor: "rgb(201, 2, 2)",
