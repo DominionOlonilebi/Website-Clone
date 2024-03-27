@@ -44,16 +44,16 @@ header h2 {
     }
     /* why choose yummy */
     .card .choose_yummy {
-        font-size: 14px;
+        font-size: 16px;
     }
     .card .yummy {
-        font-size: 12px;
+        font-size: 14px;
     }
     .card .yummys {
-        font-size: 12px;
+        font-size: 13px;
     }
     .card .yummys_text {
-        font-size: 14px;
+        font-size: 15px;
     }
     .dinning_section h3{
         font-size: 14px;
